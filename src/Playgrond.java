@@ -14,6 +14,7 @@ public class Playgrond {
         trie.insert("apple");
         //System.out.println(trie.startsWith("ap"));
         System.out.println(trie.search("ap"));
+        //Test username
     }
     public static boolean isSquareful(int a, int b){
         double res = Math.ceil(Math.sqrt(a+b));
