@@ -1,5 +1,4 @@
 //import model.*;
-import javafx.scene.chart.Axis;
 import model.common.*;
 import model.easy.*;
 import model.hard.*;
